@@ -6,11 +6,16 @@
     <description>This feed contains only iOS beta updates.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 09:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 09:03:00 +0000</lastBuildDate>
     <item>
-      <title>iOS 18 beta 7 (22A5346a)</title>
-      <link>https://developer.apple.com/news/releases/?id=08202024a</link>
-      <pubDate>Tue, 20 Aug 2024 17:00:00 +0000</pubDate>
+      <title>iOS 18 beta 8 (22A5350a)</title>
+      <link>https://developer.apple.com/news/releases/?id=08282024a</link>
+      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>iOS 18.1 beta 3 (22B5034e)</title>
+      <link>https://developer.apple.com/news/releases/?id=08282024f</link>
+      <pubDate>Wed, 28 Aug 2024 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
