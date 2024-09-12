@@ -14,7 +14,7 @@ fg.description('This feed contains only iOS beta updates.')
 
 # Add new items to feed
 for entry in latest_feed.entries:
-    if 'iOS' in entry.title and 'beta' in entry.title:
+    if 'iOS' in entry.title and ('beta' in entry.title or 'RC' in entry.title):
         fe = fg.add_entry()
         fe.title(entry.title)
         fe.link(href=entry.link)
